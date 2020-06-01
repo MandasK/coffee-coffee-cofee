@@ -1,0 +1,22 @@
+
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.shop {
+    display:flex ;
+    width: 33.3333%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+
+    
+}
+
+.pageHeader {
+    text-align: center;
+    padding: 2em;
+}
